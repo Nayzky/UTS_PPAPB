@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">UTS</string>
+    <string name="hello_innaiya_azkiya_h">Hello, Innaiya azkiya H</string>
+    <string-array name="bioskop_array">
+        <item>Bioskop jogja</item>
+        <item>Bioskop padang</item>
+        <item>Bioskop samarinda</item>
+    </string-array>
+
+    <string-array name="jenis_tiket_array">
+        <item>Tiket Reguler</item>
+        <item>Tiket VIP</item>
+    </string-array>
+
+    <string-array name="metode_pembayaran_array">
+        <item>BCA</item>
+        <item>BRI</item>
+    </string-array>
+</resources>
